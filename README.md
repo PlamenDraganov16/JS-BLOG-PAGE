@@ -8,22 +8,17 @@ Features
 
 View all blogs
 
-![image](https://github.com/user-attachments/assets/2e04da0f-9f0d-4df8-a8c1-3b6397f5a3ad)
-
+![image](https://github.com/user-attachments/assets/fd906000-8cf7-4e5c-83b7-eeb37dead470)
 
 View individual blog details
-
-![image](https://github.com/user-attachments/assets/9c6a10d1-e79c-49ad-a7bb-6f7c855a1bdd)
+![image](https://github.com/user-attachments/assets/c01d47e7-d987-49ab-98bd-919bcebe3b08)
 
 Create a new blog post
-
-![image](https://github.com/user-attachments/assets/8ce7a831-611c-4772-b8ca-6fa642828aa2)
+![image](https://github.com/user-attachments/assets/de48e065-3ecc-4802-ba72-74c94f4a970b)
 
 Delete blog posts
 
 Uses MongoDB Atlas for data storage
-
-![image](https://github.com/user-attachments/assets/608e4832-af97-42fb-924a-5c6bfef5e414)
 
 EJS templating for dynamic pages
 
